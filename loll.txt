@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>
+  <img src="http://www.deere.com/common/media/images/product/tractors/row_crop_tractors/small_frame_series/7330/7330_tractor_459893_model_642x462.png" alt=“fckin tractor”
+  style="float:center;width:500px;height:800px">
+   
+</p>
+
+<p>The image floats to the left of the text.</p>
+
+<p>Please use the CSS float property. The align attribute is deprecated in HTML 4, and not supported in HTML5.</p>
+
+</body>
+</html>
